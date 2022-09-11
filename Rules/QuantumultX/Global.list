@@ -3005,7 +3005,7 @@ HOST-SUFFIX,amazon.co.jp,Global
 HOST-SUFFIX,amazon.com,Global
 HOST-SUFFIX,amazon.in,Global
 HOST-SUFFIX,amazon.jp,Global
-HOST-SUFFIX,amazonaws.com,Global
+# HOST-SUFFIX,amazonaws.com,Global
 HOST-SUFFIX,amazonvideo.com,Global
 HOST-SUFFIX,ambit.chat,Global
 HOST-SUFFIX,ambitvpn.com,Global
