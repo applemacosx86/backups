@@ -59,8 +59,8 @@ HOST-SUFFIX,aiv-cdn.net,GlobalMedia
 HOST-SUFFIX,aiv-delivery.net,GlobalMedia
 HOST-SUFFIX,akamaized.net,GlobalMedia
 HOST-SUFFIX,amazon.jobs,GlobalMedia
-HOST-SUFFIX,amazonaws.co.uk,GlobalMedia
-HOST-SUFFIX,amazonaws.com,GlobalMedia
+# HOST-SUFFIX,amazonaws.co.uk,GlobalMedia
+# HOST-SUFFIX,amazonaws.com,GlobalMedia
 HOST-SUFFIX,amazonprimevideo.cn,GlobalMedia
 HOST-SUFFIX,amazonprimevideo.com.cn,GlobalMedia
 HOST-SUFFIX,amazonprimevideos.com,GlobalMedia
